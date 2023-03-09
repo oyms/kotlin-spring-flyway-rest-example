@@ -1,6 +1,6 @@
-# fly.toml file generated for wispy-violet-7852 on 2023-03-09T11:17:58+01:00
+# fly.toml file generated for still-water-8318 on 2023-03-09T16:52:07+01:00
 
-app = "wispy-violet-7852"
+app = "still-water-8318"
 kill_signal = "SIGINT"
 kill_timeout = 5
 primary_region = "arn"
